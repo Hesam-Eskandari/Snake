@@ -1,5 +1,5 @@
 # Snake
-Old Snake Game And The Final Demo
+Old Snake Game And The Final Demo  
 A python version of Snake:  
 ![](images/snake.gif)  
   
